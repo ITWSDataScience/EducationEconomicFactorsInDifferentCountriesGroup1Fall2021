@@ -1,0 +1,150 @@
+Country,WB Code,Region,Survey Year,Survey Type,Median income/consumption
+Albania,ALB,Europe & Central Asia,2012,c,6.5
+Angola,AGO,Sub-Saharan Africa,2009,c,2.9
+Armenia,ARM,Europe & Central Asia,2013,c,5
+Australia,AUS,East Asia & Pacific,2010,i,44
+Austria,AUT,Europe & Central Asia,2012,i,46.8
+Azerbaijan,AZE,Europe & Central Asia,2005,c,7.6
+Belarus,BLR,Europe & Central Asia,2012,c,17.1
+Belgium,BEL,Europe & Central Asia,2012,i,43
+Belize,BLZ,Latin America & Caribbean,1999,i,5.2
+Benin,BEN,Sub-Saharan Africa,2011,c,1.8
+Bhutan,BTN,South Asia,2012,c,6
+Bolivia,BOL,Latin America & Caribbean,2013,i,9.3
+Bosnia and Herzegovina,BIH,Europe & Central Asia,2007,c,16.7
+Botswana,BWA,Sub-Saharan Africa,2009,c,4.5
+Brazil,BRA,Latin America & Caribbean,2013,i,11.4
+Bulgaria,BGR,Europe & Central Asia,2012,i,13
+Burkina Faso,BFA,Sub-Saharan Africa,2009,c,1.75
+Burundi,BDI,Sub-Saharan Africa,2006,c,1.2
+Cameroon,CMR,Sub-Saharan Africa,2007,c,2.8
+Canada,CAN,North America,2010,i,46.9
+Central African Republic,CAF,Sub-Saharan Africa,2008,c,1.35
+Chad,TCD,Sub-Saharan Africa,2011,c,2.4
+Chile,CHL,Latin America & Caribbean,2013,i,14.2
+China - Rural,CHN,East Asia & Pacific,2012,C,3.9
+China - Urban,CHN,East Asia & Pacific,2012,C,9.1
+Colombia,COL,Latin America & Caribbean,2013,i,8.4
+Comoros,COM,Sub-Saharan Africa,2004,c,4.35
+"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,2012,c,1.1
+"Congo, Rep.",COG,Sub-Saharan Africa,2011,c,2.95
+Costa Rica,CRI,Latin America & Caribbean,2013,i,13.9
+Cote d'Ivoire,CIV,Sub-Saharan Africa,2008,c,2.8
+Croatia,HRV,Europe & Central Asia,2011,i,15.8
+Cyprus,CYP,Europe & Central Asia,2012,i,21.7
+Czech Republic,CZE,Europe & Central Asia,2012,i,23.5
+Denmark,DNK,Europe & Central Asia,2012,i,42.9
+Djibouti,DJI,Middle East & North Africa,2012,c,3.9
+Dominican Republic,DOM,Latin America & Caribbean,2013,i,8.1
+Ecuador,ECU,Latin America & Caribbean,2013,i,7.8
+El Salvador,SLV,Latin America & Caribbean,2013,i,7.2
+Estonia,EST,Europe & Central Asia,2012,i,18.9
+Ethiopia,ETH,Sub-Saharan Africa,2011,c,2.35
+Fiji,FJI,East Asia & Pacific,2009,c,5.65
+Finland,FIN,Europe & Central Asia,2012,i,43
+France,FRA,Europe & Central Asia,2012,i,43.2
+Gabon,GAB,Sub-Saharan Africa,2005,c,4.9
+"Gambia,The",GMB,Sub-Saharan Africa,2003,c,2.05
+Georgia,GEO,Europe & Central Asia,2013,c,4.65
+Germany,DEU,Europe & Central Asia,2011,i,45.3
+Ghana,GHA,Sub-Saharan Africa,2006,c,3.15
+Greece,GRC,Europe & Central Asia,2012,i,19.2
+Guatemala,GTM,Latin America & Caribbean,2011,i,5.15
+Guinea,GIN,Sub-Saharan Africa,2012,c,2.35
+Guinea-Bissau,GNB,Sub-Saharan Africa,2010,c,1.4
+Haiti,HTI,Latin America & Caribbean,2012,i,1.7
+Honduras,HND,Latin America & Caribbean,2013,i,4.6
+Hungary,HUN,Europe & Central Asia,2012,i,16.45
+Iceland,ISL,Europe & Central Asia,2012,i,41.3
+India-Rural,IND,South Asia,2012,c,2.55
+India-Urban,IND,South Asia,2010,c,3.55
+Indonesia-Rural,IDN,East Asia & Pacific,2013,c,3.3
+Indonesia-Urban,IDN,East Asia & Pacific,2013,c,4.15
+Iran,IRN,Middle East & North Africa,2013,C,12.9
+Ireland,IRL,Europe & Central Asia,2012,i,34.2
+Israel,ISR,Middle East & North Africa,2010,i,23.8
+Italy ,ITA,Europe & Central Asia,2012,i,33.5
+Jamaica,JAM,Latin America & Caribbean,2004,c,7.9
+Japan,JPN,East Asia & Pacific,2008,i,34.5
+Kazakhstan,KAZ,Europe & Central Asia,2013,c,10.45
+Kenya,KEN,Sub-Saharan Africa,2005,c,2.6
+Kiribati,KIR,East Asia & Pacific,2006,c,3.95
+Kyrgyz Republic,KGZ,Europe & Central Asia,2012,c,4.4
+Latvia,LVA,Europe & Central Asia,2012,i,14.7
+Lesotho,LSO,Sub-Saharan Africa,2010,c,1.45
+Liberia,LBR,Sub-Saharan Africa,2007,c,1.45
+Lithuania,LTU,Europe & Central Asia,2012,i,16.2
+Luxembourg,LUX,Europe & Central Asia,2012,i,57.9
+"Macedonia, FYR",MKD,Europe & Central Asia,2008,c,8.15
+Madagascar,MDG,Sub-Saharan Africa,2010,c,1.05
+Malawi,MWI,Sub-Saharan Africa,2010,c,1.25
+Malaysia,MYS,East Asia & Pacific,2009,i,14
+Maldives,MDV,South Asia,2010,c,5.75
+Mali,MLI,Sub-Saharan Africa,2010,c,1.9
+Mauritania,MRT,Sub-Saharan Africa,2008,c,4.35
+Mauritius,MUS,Sub-Saharan Africa,2012,c,9.05
+Mexico (c),MEX,Latin America & Caribbean,2012,c,7.7
+Mexico (i),MEX,Latin America & Caribbean,2012,i,7.1
+Micronesia (urban),FSM,East Asia & Pacific,2000,i,1.9
+Moldova,MDA,Europe & Central Asia,2013,c,8.25
+Mongolia,MNG,East Asia & Pacific,2012,c,8.2
+Montenegro,MNE,Europe & Central Asia,2013,c,11.7
+Morocco,MAR,Middle East & North Africa,2007,c,5.65
+Mozambique,MOZ,Sub-Saharan Africa,2009,c,1.35
+Namibia,NAM,Sub-Saharan Africa,2010,c,3.4
+Nepal,NPL,South Asia,2010,c,3.15
+Netherlands,NLD,Europe & Central Asia,2012,i,43.3
+Nicaragua,NIC,Latin America & Caribbean,2009,i,5.2
+Niger,NER,Sub-Saharan Africa,2011,c,1.9
+Nigeria,NGA,Sub-Saharan Africa,2010,c,1.8
+Norway,NOR,Europe & Central Asia,2012,i,59.5
+Pakistan,PAK,South Asia,2011,c,3.3
+Panama,PAN,Latin America & Caribbean,2013,i,13
+Papua New Guinea,PNG,East Asia & Pacific,2010,c,2.3
+Paraguay,PRY,Latin America & Caribbean,2013,i,11.25
+Peru,PER,Latin America & Caribbean,2013,i,10
+Philippines,PHL,East Asia & Pacific,2012,c,3.9
+Poland (i),POL,Europe & Central Asia,2012,i,18.9
+Poland (c),POL,Europe & Central Asia,2012,c,13.5
+Portugal,PRT,Europe & Central Asia,2012,i,20.2
+Romania (i),ROM,Europe & Central Asia,2012,i,8.35
+Romania (c),ROM,Europe & Central Asia,2012,c,7.75
+Russia,RUS,Europe & Central Asia,2012,c,18.5
+Rwanda,RWA,Sub-Saharan Africa,2011,c,1.6
+Samoa,WSM,East Asia & Pacific,2008,c,6.9
+Sao Tome and Principe,STP,Sub-Saharan Africa,2010,c,2.35
+Senegal,SEN,Sub-Saharan Africa,2011,c,2.35
+Serbia,SRB,Europe & Central Asia,2010,c,11.1
+Seychelles,SYC,Sub-Saharan Africa,2006,c,12.5
+Sierra Leone,SLE,Sub-Saharan Africa,2011,c,1.85
+Slovak Republic,SVK,Europe & Central Asia,2012,i,26.15
+Slovenia,SVN,Europe & Central Asia,2012,i,29.9
+Solomon Islands,SLB,East Asia & Pacific,2005,c,2.05
+South Africa,ZAF,Sub-Saharan Africa,2011,c,4.6
+Spain,ESP,Europe & Central Asia,2012,i,30.8
+Sri Lanka,LKA,South Asia,2013,c,5.45
+St Lucia,LCA,Latin America & Caribbean,1995,I,2.5
+Sudan,SDN,Sub-Saharan Africa,2009,c,3.7
+Suriname,SUR,Latin America & Caribbean,1999,i,4.6
+Swaziland,SWZ,Sub-Saharan Africa,2009,c,2.25
+Sweden,SWE,Europe & Central Asia,2012,i,44.6
+Switzerland,CHE,Europe & Central Asia,2012,i,55.3
+"Taiwan, China",TWN,East Asia & Pacific,2010,i,34.1
+Tajikistan,TJK,Europe & Central Asia,2009,c,4.6
+Tanzania,TZA,Sub-Saharan Africa,2012,c,2
+Thailand,THA,East Asia & Pacific,2012,c,10.75
+Togo,TGO,Sub-Saharan Africa,2011,c,1.75
+Tonga,TON,East Asia & Pacific,2009,c,7.45
+Trinidad and Tobago,TTO,Latin America & Caribbean,1992,I,7.65
+Tunisia,TUN,Middle East & North Africa,2010,c,7.6
+Turkey,TUR,Europe & Central Asia,2012,c,12.2
+Uganda,UGA,Sub-Saharan Africa,2012,c,2.5
+Ukraine,UKR,Europe & Central Asia,2013,c,11.75
+United Kingdom,GBR,Europe & Central Asia,2012,i,37.8
+United States,USA,North America,2013,i,48.2
+Uruguay,URY,Latin America & Caribbean,2013,i,17.9
+Vanuatu,VUT,East Asia & Pacific,2010,c,3.65
+Venezuela,VEN,Latin America & Caribbean,2006,i,8.4
+Vietnam,VNM,East Asia & Pacific,2012,c,6.15
+West Bank and Gaza,WBG,Middle East & North Africa,2009,c,8.5
+Zambia,ZMB,Sub-Saharan Africa,2010,c,1.35
