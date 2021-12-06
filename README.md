@@ -1,6 +1,6 @@
 # Education Economic Factors In Different Countries
 
-Group 1: Adam Holsinger, Adrianne Gelbach, Elo Ekor, Jackie Kim, Kyuseok Nam, Lauren Lui, Shardul Joshi  
+Group 1: [Adam Holsinger](https://github.com/AdamH18), [Adrianne Gelbach](https://github.com/adriannebunn), [Elo Ekor](https://github.com/eloekor), [Jackie Kim](https://github.com/kims32), [Kyuseok Nam](https://github.com/Kyuseok-nam), [Lauren Lui](https://github.com/laurenlui), [Shardul Joshi](https://github.com/joshardul)  
 RPI Data Science - Fall 2021  
 Professor Munasinghe
 
