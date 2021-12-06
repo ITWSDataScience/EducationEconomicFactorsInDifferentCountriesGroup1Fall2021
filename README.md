@@ -6,8 +6,7 @@ Professor Munasinghe
 
 <br>
 
-### Table of Contents
----
+## Table of Contents
 1. [Abstract](#abstract)
 2. [Data management](#data-management)
     <ol type="a">
@@ -27,7 +26,6 @@ Professor Munasinghe
 <br>
 
 ## Abstract
----
 The UN department of Economic and Social Affairs Sustainable Development has outlined 17 goals for sustainable development. (THE 17 GOALS | Sustainable Development, n.d.)  Each goal has been addressed by the UNESCO Institute for Statistics in a project called, “Data for Sustainable Development Goals.” (UNESCO UIS, n.d.) We decided to approach Goal 4: “ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.”  These goals are further divided into subgoals, and our plan is to study the Sustainable Development Goal 4.4, which targets “increas[ing] the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs and entrepreneurship.” The indicator used for this goal is: “identifying the proportion of youth and adults with information and communications technology skills, by type of skill.” (Goal 4 | Department of Economic and Social Affairs, n.d.) Addressing this target and goal begins with identifying education indicators in developing nations and improving it based on the education indicators in countries with low unemployment and higher mean wages.
 
 The datasets we chose included reports from the UN (United Nations), UNESCO (United Nations Educational, Scientific and Cultural Organization), World Bank, OECD (Organization for Economic Co-Operation and Development), GESIS (GESIS – Leibniz Institute for the Social Sciences), ILO (International Labor Organization), and the CGDEV (Center for Global Development). We chose datasets from these organizations for several reasons. First, these are very reputable organizations that have compiled incredible data repositories that can provide information on the metrics we chose to analyze. Next, they allow us to compare countries throughout the world.
@@ -37,7 +35,6 @@ All formal project references (APA-style) can be found in the [references](#refe
 <br>
 
 ## Data management
----
 
 | [Logical collections](#logical-collections) | [Physical data handling](#physical-data-handling) | [Security](#security) | [Interoperability support](#interoperability-support) | [Data ownership](#data-ownership) | [Metadata](#metadata) | [Persistence](#persistence) | [Discovery](#discovery) | [Dissemination](#dissemination) |
 
@@ -122,27 +119,8 @@ These newly found correlations between education and employment were formatted i
 <br>
 
 ## Conclusions
----
 
 <br>
 
 ## References
----
 
-
-<!-- Some styling for the document -->
-<style>
-    code {
-        font-size: 12px;
-        height: 5px !important;
-        max-height: 10px !important;
-    }
-
-    p {
-        font-size: 14px
-    }
-
-    h1 {
-        border-bottom: none
-    }
-</style>
