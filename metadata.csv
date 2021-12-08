@@ -1,28 +1,28 @@
 Description,Original link,Organization website,Source of data (i.e. what study or report),Date accessed,Date published,Raw data filename,Units
-Population (thousands),Population,http://data.un.org/,World Health Organization,2021-11-16,2014-07-31,data.csv,Thousands
-Compulsory attendance duration,Compulsory,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,compulsory_duration.csv,Years
-Early education attendance rate,Early Education,http://data.un.org/,United Nations Children's Fund: The State of the World’s Children,2021-11-16,2013-06-19,early_education_rates.csv,Percent
-Primary enrollment,Primary,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,primary.csv,Number
-Secondary enrollment,Secondary,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,secondary.csv,Number
-Tertiary enrollment,Tertiary,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,tertiary.csv,Number
-Male literacy rate,Male Literacy,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,15+.csv,Percent
-Female literacy rate,Female Literacy,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,15+.csv,Percent
-Primary completion rate,Completion Rate,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,primary_completion.csv,% of relevant age group
-Primary to secondary transition rate,Transition,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_to_secondary_transition.csv,Percent
-Primary drop out rate,Drop Out,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary.csv,Percent
-Lower secondary repeaters count,Secondary Repeater,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,lower_secondary_counts.csv,Number
-Primary repeaters count,Repeater Count,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_counts.csv,Number
-Primary repeaters rate,Repeater Rate,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_percentages.csv,Percent
-School life expectancy,School Life Expectancy,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,expectancy.csv,Years
-Lower secondary teacher-student ratio,Lower Secondary,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,lower_secondary.csv,Students per Teacher
-Primary teacher-student ratio,Primary,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary.csv,Students per Teacher
-Upper secondary teacher-student ratio,Upper Secondary,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,upper_secondary.csv,Students per Teacher
-Education spending (percentage of GDP),Education Spending,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,percentage_GDP.csv,% of GDP
-Unemployment rate,Unemployment Rate,https://www.ilo.org/,ILO Modelled Estimates,2021-11-16,2020-11-01,,Percent
-Child labor percentage,Child Labor,http://data.un.org/,United Nations Children's Fund: The State of the World’s Children,2021-11-16,2013-06-19,UNChildLabor.csv,Percent
-Average income,Avg Income,http://data.un.org/,United Nations Statistics Division: National Accounts Official Country Data,2021-11-16,2021-09-23,UNdata_Export_20211112_234256215.csv,Number in Currency
-Average Income GNI,Avg Income GNI,https://data.worldbank.org/,"World Bank national accounts data, and OECD National Accounts data files.",2021-11-16,N/A,API_NY.GNP.PCAP.CD_DS2_en_csv_v2_3159868.csv,US $
-Median Income,Median Income,https://www.cgdev.org/,"PovcalNet, the World Bank’s global poverty database",2021-11-16,2016-02-06,country-median-data-2011-PPP-Diofasi-Birdsall.csv,$ per day
-GDP (USD),GDP,https://data.worldbank.org/,"World Bank national accounts data, and OECD National Accounts data files.",2021-11-16,N/A,gdp_current.csv,Millions US $
-Labor force count,Labor Force,http://data.un.org/,International Monetary Fund: International Financial Statistics,2021-11-16,2010-05-14,labor_statistics_un.csv,Thousands
-Three year average unnourished count,Avg Unnourished,http://data.un.org/,Food and Agriculture Organization,2021-11-16,2020-12-04,3YearAvg.csv,Millions
+Population (thousands),https://data.un.org/Data.aspx?q=population+total&d=WHO&f=MEASURE_CODE%3aWHS9_86,http://data.un.org/,World Health Organization,2021-11-16,2014-07-31,data.csv,Thousands
+Compulsory attendance duration,https://data.worldbank.org/indicator/SE.COM.DURS,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,compulsory_duration.csv,Years
+Early education attendance rate,http://data.un.org/Data.aspx?q=attendance&d=SOWC&f=inID%3a235,http://data.un.org/,United Nations Children's Fund: The State of the World’s Children,2021-11-16,2013-06-19,early_education_rates.csv,Percent
+Primary enrollment,https://data.un.org/Data.aspx?q=enrollment&d=GenderStat&f=inID%3a63,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,primary.csv,Number
+Secondary enrollment,https://data.un.org/Data.aspx?q=enrollment&d=GenderStat&f=inID%3a64,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,secondary.csv,Number
+Tertiary enrollment,https://data.un.org/Data.aspx?q=enrollment&d=GenderStat&f=inID%3a65,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,tertiary.csv,Number
+Male literacy rate,https://data.un.org/Data.aspx?q=literacy&d=GenderStat&f=inID%3a49,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,15+.csv,Percent
+Female literacy rate,https://data.un.org/Data.aspx?q=literacy&d=GenderStat&f=inID%3a49,http://data.un.org/,United Nations Statistics Division: Gender Info 2007,2021-11-16,2008-03-21,15+.csv,Percent
+Primary completion rate,https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,primary_completion.csv,% of relevant age group
+Primary to secondary transition rate,http://data.un.org/Data.aspx?d=UNESCO&f=series%3aTRANR_23_GPV,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_to_secondary_transition.csv,Percent
+Primary drop out rate,http://data.un.org/Data.aspx?d=UNESCO&f=series%3aDR_1,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary.csv,Percent
+Lower secondary repeaters count,https://data.un.org/Data.aspx?q=education+repeaters+secondary&d=UNESCO&f=series%3aR_23_GPV,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,lower_secondary_counts.csv,Number
+Primary repeaters count,https://data.un.org/Data.aspx?q=education+repeaters&d=UNESCO&f=series%3aR_1,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_counts.csv,Number
+Primary repeaters rate,https://data.un.org/Data.aspx?q=education+repeaters&d=UNESCO&f=series%3aREPP_1,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary_percentages.csv,Percent
+School life expectancy,https://data.un.org/Data.aspx?q=school&d=UNESCO&f=series%3aSLE_1,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,expectancy.csv,Years
+Lower secondary teacher-student ratio,http://data.un.org/Data.aspx?d=UNESCO&f=series%3aPTRHC_2,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,lower_secondary.csv,Students per Teacher
+Primary teacher-student ratio,http://data.un.org/Data.aspx?d=UNESCO&f=series%3aPTRHC_1,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,primary.csv,Students per Teacher
+Upper secondary teacher-student ratio,http://data.un.org/Data.aspx?d=UNESCO&f=series%3aPTRHC_3,http://data.un.org/,UNESCO Institute for Statistics: UIS Data Centre,2021-11-16,2016-10-24,upper_secondary.csv,Students per Teacher
+Education spending (percentage of GDP),https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS?view=chart,https://data.worldbank.org/,UNESCO Institute for Statistics,2021-11-16,2021-09-01,percentage_GDP.csv,% of GDP
+Unemployment rate,https://www.ilo.org/shinyapps/bulkexplorer42/?lang=en&segment=indicator&id=UNE_2EAP_SEX_AGE_RT_A,https://www.ilo.org/,ILO Modelled Estimates,2021-11-16,2020-11-01,UNE_2EAP_SEX_AGE_RT_A-full-2021-11-12.csv,Percent
+Child labor percentage,https://data.un.org/Data.aspx?q=child+labor&d=SOWC&f=inID%3a86,http://data.un.org/,United Nations Children's Fund: The State of the World’s Children,2021-11-16,2013-06-19,UNChildLabor.csv,Percent
+Average income,http://data.un.org/Data.aspx?d=SNA&f=group_code%3a406%3bitem_code%3a7,http://data.un.org/,United Nations Statistics Division: National Accounts Official Country Data,2021-11-16,2021-09-23,UNdata_Export_20211112_234256215.csv,Number in Currency
+Average Income GNI,https://data.worldbank.org/indicator/NY.GNP.PCAP.CD,https://data.worldbank.org/,"World Bank national accounts data, and OECD National Accounts data files.",2021-11-16,N/A,API_NY.GNP.PCAP.CD_DS2_en_csv_v2_3159868.csv,US $
+Median Income,https://www.cgdev.org/blog/world-bank-poverty-statistics-lack-median-income-data-so-we-filled-gap-ourselves-download-available,https://www.cgdev.org/,"PovcalNet, the World Bank’s global poverty database",2021-11-16,2016-02-06,country-median-data-2011-PPP-Diofasi-Birdsall.csv,$ per day
+GDP (USD),https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?view=map,https://data.worldbank.org/,"World Bank national accounts data, and OECD National Accounts data files.",2021-11-16,N/A,gdp_current.csv,Millions US $
+Labor force count,https://data.un.org/Data.aspx?q=labor&d=IFS&f=SeriesCode%3a67,http://data.un.org/,International Monetary Fund: International Financial Statistics,2021-11-16,2010-05-14,labor_statistics_un.csv,Thousands
+Three year average unnourished count,https://data.un.org/Data.aspx?q=undernourished&d=FAO&f=itemCode%3a210011,http://data.un.org/,Food and Agriculture Organization,2021-11-16,2020-12-04,3YearAvg.csv,Millions
